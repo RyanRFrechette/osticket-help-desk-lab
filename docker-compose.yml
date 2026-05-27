@@ -1,0 +1,37 @@
+services:
+  mysql:
+    image: mysql:5.7
+    container_name: osticket-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: secret
+      MYSQL_DATABASE: osticket
+      MYSQL_USER: osticket
+      MYSQL_PASSWORD: secret
+    volumes:
+      - osticket-db:/var/lib/mysql
+
+  osticket:
+    image: campbellsoftwaresolutions/osticket
+    container_name: osticket-app
+    restart: unless-stopped
+    depends_on:
+      - mysql
+    ports:
+      - "8080:80"
+    environment:
+      MYSQL_HOST: mysql
+      MYSQL_DATABASE: osticket
+      MYSQL_USER: osticket
+      MYSQL_PASSWORD: secret
+      INSTALL_NAME: Ryan Help Desk Lab
+      INSTALL_EMAIL: helpdesk@example.local
+      INSTALL_URL: http://localhost:8080/
+      ADMIN_FIRSTNAME: Ryan
+      ADMIN_LASTNAME: Frechette
+      ADMIN_EMAIL: admin@example.local
+      ADMIN_USERNAME: ostadmin
+      ADMIN_PASSWORD: Admin1
+
+volumes:
+  osticket-db:
