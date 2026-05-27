@@ -84,6 +84,16 @@ Opened the osTicket Admin Panel and captured the System Settings and Preferences
 **What this proves:**  
 The lab has working admin access and is ready for help desk configuration work, including departments, help topics, agents, users, tickets, and system preferences.
 
+### 4. osTicket Departments Configured
+
+![osTicket Departments Configured](screenshots/admin-config/02-osticket-departments-configured.png)
+
+**What was completed:**  
+Created and confirmed multiple departments in the osTicket Admin Panel, including IT Support, Hardware / Software Support, Account Support, and Maintenance.
+
+**What this proves:**  
+The lab now has department structure in place for ticket routing and future help desk workflow configuration.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -152,5 +162,6 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
