@@ -47,7 +47,7 @@ This repository is being built as a portfolio project for Help Desk, IT Support 
 | Install osTicket locally | Complete | osTicket is running locally through Docker. |
 | Capture login proof | Complete | Captured the osTicket Agent Login page. |
 | Capture agent dashboard | Complete | Log in and capture the staff dashboard. |
-| Configure departments/help topics | Next | Add realistic support categories for the help desk lab. |
+| Configure departments/help topics | Complete | Add realistic support categories for the help desk lab. |
 | Create realistic tickets | Planned | Build and resolve six support-ticket scenarios. |
 | Polish final documentation | Planned | Add screenshots, case study notes, and resume-ready project bullets. |
 
@@ -94,11 +94,21 @@ Created and confirmed multiple departments in the osTicket Admin Panel, includin
 **What this proves:**  
 The lab now has department structure in place for ticket routing and future help desk workflow configuration.
 
+### 5. osTicket Help Topics Configured
+
+![osTicket Help Topics Configured](screenshots/admin-config/03-osticket-help-topics-configured.png)
+
+**What was completed:**  
+Configured realistic help topics in the osTicket Admin Panel, including Login Issue, Password Reset, Shared Folder Access, Slow Computer, Software Install Request, and New User Setup.
+
+**What this proves:**  
+The lab now has support request categories that can be used to route and document realistic help desk tickets.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
 - [x] Admin dashboard
-- [ ] Department and help topic configuration
+- [x] Department and help topic configuration
 - [ ] Ticket queue
 - [ ] Ticket detail page
 - [ ] Internal note example
@@ -162,6 +172,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
