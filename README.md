@@ -104,6 +104,16 @@ Configured realistic help topics in the osTicket Admin Panel, including Login Is
 **What this proves:**  
 The lab now has support request categories that can be used to route and document realistic help desk tickets.
 
+### 6. osTicket Test User Created
+
+![osTicket Test User Created](screenshots/admin-config/04-osticket-test-user-created.png)
+
+**What was completed:**  
+Created a test customer/user account named Taylor Morgan for future ticket scenarios.
+
+**What this proves:**  
+The lab now has a realistic end user/customer profile that can be used to create and document support tickets.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -172,6 +182,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
