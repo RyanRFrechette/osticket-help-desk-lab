@@ -304,6 +304,16 @@ Posted an internal troubleshooting note documenting the software install request
 **What this proves:**  
 The ticket includes professional internal documentation for a software installation workflow, including software name confirmation, approval/licensing review, and IT installation decision-making.
 
+### 26. Ticket 05 Closed Ticket List
+
+![Ticket 05 Closed Ticket List](screenshots/tickets/20-ticket-05-closed-ticket-list.png)
+
+**What was completed:**  
+Resolved the software install request and confirmed it appears in the closed ticket queue.
+
+**What this proves:**  
+The lab shows a completed software installation request workflow, including the closed date, ticket subject, user, and the support agent who closed it.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -372,6 +382,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
