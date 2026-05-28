@@ -274,6 +274,16 @@ Resolved the slow computer ticket and confirmed it appears in the closed ticket 
 **What this proves:**  
 The lab shows a completed basic performance troubleshooting workflow, including the closed date, ticket subject, user, and the support agent who closed it.
 
+### 23. Ticket 05 Created - Software Install Request
+
+![Ticket 05 Created Confirmation](screenshots/tickets/17-ticket-05-created-confirmation.png)
+
+**What was completed:**  
+Created the fifth realistic support ticket for a user requesting help installing approved work software.
+
+**What this proves:**  
+The lab now includes a software installation request workflow, showing ticket intake, help topic categorization, and user request documentation for a common IT support scenario.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -342,6 +352,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
