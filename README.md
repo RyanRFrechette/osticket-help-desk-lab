@@ -284,6 +284,16 @@ Created the fifth realistic support ticket for a user requesting help installing
 **What this proves:**  
 The lab now includes a software installation request workflow, showing ticket intake, help topic categorization, and user request documentation for a common IT support scenario.
 
+### 24. Ticket 05 Detail View Opened
+
+![Ticket 05 Detail View Opened](screenshots/tickets/18-ticket-05-detail-opened.png)
+
+**What was completed:**  
+Opened the software install request ticket inside the osTicket staff panel.
+
+**What this proves:**  
+The agent can review a software installation support request, including user details, help topic, ticket status, priority, and the original request details.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -352,6 +362,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
