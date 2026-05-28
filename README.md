@@ -134,6 +134,26 @@ Opened the newly created login issue ticket inside the osTicket staff panel.
 **What this proves:**  
 The agent can access the ticket queue, open a user request, and begin documenting troubleshooting work inside the ticketing system.
 
+### 9. Ticket 01 Internal Note Posted
+
+![Ticket 01 Internal Note Posted](screenshots/tickets/03-ticket-internal-note-posted.png)
+
+**What was completed:**  
+Posted an internal troubleshooting note documenting the first triage step for the login issue.
+
+**What this proves:**  
+The ticket includes professional internal documentation, showing how an IT support agent records troubleshooting context before resolving the issue.
+
+### 10. Ticket 01 Reply Posted and Resolved
+
+![Ticket 01 Reply Posted and Resolved](screenshots/tickets/04-ticket-reply-posted-resolved.png)
+
+**What was completed:**  
+Posted a customer-facing reply and resolved the first login issue ticket.
+
+**What this proves:**  
+The lab now demonstrates the full ticket lifecycle: intake, triage, internal note, user communication, and resolution.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -202,6 +222,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
