@@ -294,6 +294,16 @@ Opened the software install request ticket inside the osTicket staff panel.
 **What this proves:**  
 The agent can review a software installation support request, including user details, help topic, ticket status, priority, and the original request details.
 
+### 25. Ticket 05 Internal Note Posted
+
+![Ticket 05 Internal Note Posted](screenshots/tickets/19-ticket-05-internal-note-posted.png)
+
+**What was completed:**  
+Posted an internal troubleshooting note documenting the software install request triage process.
+
+**What this proves:**  
+The ticket includes professional internal documentation for a software installation workflow, including software name confirmation, approval/licensing review, and IT installation decision-making.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -362,6 +372,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
