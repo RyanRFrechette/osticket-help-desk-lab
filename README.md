@@ -194,6 +194,16 @@ Resolved the password reset request and confirmed it appears in the closed ticke
 **What this proves:**  
 The lab shows a completed ticket lifecycle for a password reset request, including the closed date, ticket subject, user, and the support agent who closed it.
 
+### 15. Ticket 03 Created - Shared Folder Access Request
+
+![Ticket 03 Created Confirmation](screenshots/tickets/09-ticket-03-created-confirmation.png)
+
+**What was completed:**  
+Created the third realistic support ticket for a user requesting access to a shared company folder.
+
+**What this proves:**  
+The lab now includes a permissions/access request scenario, showing ticket intake, help topic categorization, and user request documentation for a common help desk workflow.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -262,6 +272,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
