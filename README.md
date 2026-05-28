@@ -154,6 +154,16 @@ Posted a customer-facing reply and resolved the first login issue ticket.
 **What this proves:**  
 The lab now demonstrates the full ticket lifecycle: intake, triage, internal note, user communication, and resolution.
 
+### 11. Ticket 02 Created - Password Reset Request
+
+![Ticket 02 Created Confirmation](screenshots/tickets/05-ticket-02-created-confirmation.png)
+
+**What was completed:**  
+Created the second realistic support ticket for a user requesting help with a password reset.
+
+**What this proves:**  
+The lab now includes another common help desk scenario showing ticket intake, help topic categorization, and user request documentation for an account access issue.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -222,6 +232,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
