@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an in-progress help desk ticketing lab built with osTicket in a local Docker environment.
+This is a completed help desk ticketing lab built with osTicket in a local Docker environment.
 
 The goal is to show practical entry-level IT support skills: working inside a ticketing system, documenting user requests, organizing issues by type, communicating clearly, and building a realistic support workflow.
 
@@ -10,9 +10,9 @@ This repository is being built as a portfolio project for Help Desk, IT Support 
 
 ## Current Status
 
-**Status:** In progress  
-**Current phase:** osTicket is running locally with Docker and the first proof screenshot has been captured.  
-**Next step:** Log in as an agent/admin, capture the dashboard, configure departments/help topics, then create and resolve realistic support tickets.
+**Status:** Complete / portfolio-ready draft  
+**Current phase:** Six realistic support tickets have been created, documented, resolved, and supported with screenshot proof.  
+**Next step:** Polish the final case study, resume bullets, and README wording for job applications.
 
 ## Skills Demonstrated
 
@@ -48,8 +48,8 @@ This repository is being built as a portfolio project for Help Desk, IT Support 
 | Capture login proof | Complete | Captured the osTicket Agent Login page. |
 | Capture agent dashboard | Complete | Log in and capture the staff dashboard. |
 | Configure departments/help topics | Complete | Add realistic support categories for the help desk lab. |
-| Create realistic tickets | Planned | Build and resolve six support-ticket scenarios. |
-| Polish final documentation | Planned | Add screenshots, case study notes, and resume-ready project bullets. |
+| Create realistic tickets | Complete | Built and resolved six realistic support-ticket scenarios. |
+| Polish final documentation | In Progress | README screenshot walkthrough is complete; final case study and resume bullets are next. |
 
 ## Screenshot Walkthrough
 
@@ -354,19 +354,20 @@ Resolved the new user onboarding request and confirmed it appears in the closed 
 **What this proves:**  
 The lab shows a completed onboarding request workflow, including the closed date, ticket subject, user, and the support agent who closed it.
 
-## Next Screenshots To Capture
+## Screenshot Checklist Status
 
 - [x] Agent dashboard
 - [x] Admin dashboard
 - [x] Department and help topic configuration
-- [ ] Ticket queue
-- [ ] Ticket detail page
-- [ ] Internal note example
-- [ ] Resolved ticket example
+- [x] Ticket queue proof
+- [x] Ticket detail pages
+- [x] Internal note examples
+- [x] Resolved / closed ticket proof
+- [x] Six realistic ticket workflows
 
-## Ticket Scenarios Planned
+## Ticket Scenarios Completed
 
-The finished lab will include six realistic support tickets:
+The finished lab includes six realistic support tickets:
 
 1. **User Cannot Log In**  
    Simulates a common access issue where a user cannot log in and needs support triage.
@@ -392,7 +393,7 @@ This project shows that I can build and document a realistic help desk workflow 
 
 For a hiring manager, this lab is meant to demonstrate that I understand the basics of working in an IT support queue: receiving tickets, documenting user issues, organizing work, communicating clearly, tracking progress, and closing tickets with useful resolution notes.
 
-The project is still in progress, but the goal is to turn it into a clear screenshot-based case study that shows practical readiness for entry-level Help Desk or IT Support work.
+This project is now a clear screenshot-based help desk case study that shows practical readiness for entry-level Help Desk or IT Support work.
 
 ## Planned Final Deliverables
 
@@ -421,28 +422,5 @@ The project is still in progress, but the goal is to turn it into a clear screen
 
 ## Next Step
 
-The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The next step is final polish: complete case-study.md, complete esume-bullets.md, and tighten the README for job applications.
 
