@@ -254,6 +254,16 @@ Opened the slow computer ticket inside the osTicket staff panel.
 **What this proves:**  
 The agent can review a basic performance troubleshooting ticket, including user details, help topic, ticket status, priority, and the original request details.
 
+### 21. Ticket 04 Internal Notes Posted
+
+![Ticket 04 Internal Notes Posted](screenshots/tickets/15-ticket-04-internal-notes-posted.png)
+
+**What was completed:**  
+Posted internal troubleshooting notes documenting the slow computer triage process and follow-up performance checks.
+
+**What this proves:**  
+The ticket includes professional internal documentation for a basic performance troubleshooting workflow, including startup apps, disk space, pending updates, and resource usage checks.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -322,6 +332,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
