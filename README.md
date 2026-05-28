@@ -214,6 +214,16 @@ Opened the shared folder access request ticket inside the osTicket staff panel.
 **What this proves:**  
 The agent can review a shared folder access request, including user details, help topic, ticket status, priority, and the original request details for a permissions-based support scenario.
 
+### 17. Ticket 03 Internal Note Posted
+
+![Ticket 03 Internal Note Posted](screenshots/tickets/11-ticket-03-internal-note-posted.png)
+
+**What was completed:**  
+Posted an internal troubleshooting note documenting the shared folder access triage process.
+
+**What this proves:**  
+The ticket includes professional internal documentation for a permissions-based support request, including folder access needs, user role verification, and group permission checks.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -282,6 +292,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
