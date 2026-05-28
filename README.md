@@ -164,6 +164,16 @@ Created the second realistic support ticket for a user requesting help with a pa
 **What this proves:**  
 The lab now includes another common help desk scenario showing ticket intake, help topic categorization, and user request documentation for an account access issue.
 
+### 12. Ticket 02 Detail View Opened
+
+![Ticket 02 Detail View Opened](screenshots/tickets/06-ticket-02-detail-opened.png)
+
+**What was completed:**  
+Opened the password reset request ticket inside the osTicket staff panel.
+
+**What this proves:**  
+The agent can access and review a password reset support request, including the user details, help topic, ticket status, priority, and original request details.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -232,6 +242,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
