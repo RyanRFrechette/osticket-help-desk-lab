@@ -314,6 +314,46 @@ Resolved the software install request and confirmed it appears in the closed tic
 **What this proves:**  
 The lab shows a completed software installation request workflow, including the closed date, ticket subject, user, and the support agent who closed it.
 
+### 27. Ticket 06 Created - New User Onboarding
+
+![Ticket 06 Created Confirmation](screenshots/tickets/21-ticket-06-created-confirmation.png)
+
+**What was completed:**  
+Created the sixth realistic support ticket for a new user onboarding request.
+
+**What this proves:**  
+The lab includes an onboarding workflow showing ticket intake, help topic categorization, and setup request documentation.
+
+### 28. Ticket 06 Detail View Opened
+
+![Ticket 06 Detail View Opened](screenshots/tickets/22-ticket-06-detail-opened.png)
+
+**What was completed:**  
+Opened the new user onboarding ticket inside the osTicket staff panel.
+
+**What this proves:**  
+The agent can review onboarding request details, including account, email, application access, and shared folder permission needs.
+
+### 29. Ticket 06 Internal Note Posted
+
+![Ticket 06 Internal Note Posted](screenshots/tickets/23-ticket-06-internal-note-posted.png)
+
+**What was completed:**  
+Posted an internal note documenting the new user onboarding triage process.
+
+**What this proves:**  
+The ticket includes professional internal documentation for employee setup, including start date, manager, required applications, email needs, and group access requirements.
+
+### 30. Ticket 06 Closed Ticket List
+
+![Ticket 06 Closed Ticket List](screenshots/tickets/24-ticket-06-closed-ticket-list.png)
+
+**What was completed:**  
+Resolved the new user onboarding request and confirmed it appears in the closed ticket queue.
+
+**What this proves:**  
+The lab shows a completed onboarding request workflow, including the closed date, ticket subject, user, and the support agent who closed it.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -382,6 +422,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
