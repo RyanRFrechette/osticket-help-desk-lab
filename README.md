@@ -244,6 +244,16 @@ Created the fourth realistic support ticket for a user reporting a slow computer
 **What this proves:**  
 The lab now includes a basic troubleshooting scenario showing ticket intake, help topic categorization, and user request documentation for a common performance issue.
 
+### 20. Ticket 04 Detail View Opened
+
+![Ticket 04 Detail View Opened](screenshots/tickets/14-ticket-04-detail-opened.png)
+
+**What was completed:**  
+Opened the slow computer ticket inside the osTicket staff panel.
+
+**What this proves:**  
+The agent can review a basic performance troubleshooting ticket, including user details, help topic, ticket status, priority, and the original request details.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -312,6 +322,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
