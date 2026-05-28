@@ -234,6 +234,16 @@ Resolved the shared folder access request and confirmed it appears in the closed
 **What this proves:**  
 The lab shows a completed permissions/access request workflow, including the closed date, ticket subject, user, and the support agent who closed it.
 
+### 19. Ticket 04 Created - Slow Computer
+
+![Ticket 04 Created Confirmation](screenshots/tickets/13-ticket-04-created-confirmation.png)
+
+**What was completed:**  
+Created the fourth realistic support ticket for a user reporting a slow computer issue.
+
+**What this proves:**  
+The lab now includes a basic troubleshooting scenario showing ticket intake, help topic categorization, and user request documentation for a common performance issue.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -302,6 +312,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
