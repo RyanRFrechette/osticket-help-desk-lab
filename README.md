@@ -204,6 +204,16 @@ Created the third realistic support ticket for a user requesting access to a sha
 **What this proves:**  
 The lab now includes a permissions/access request scenario, showing ticket intake, help topic categorization, and user request documentation for a common help desk workflow.
 
+### 16. Ticket 03 Detail View Opened
+
+![Ticket 03 Detail View Opened](screenshots/tickets/10-ticket-03-detail-opened.png)
+
+**What was completed:**  
+Opened the shared folder access request ticket inside the osTicket staff panel.
+
+**What this proves:**  
+The agent can review a shared folder access request, including user details, help topic, ticket status, priority, and the original request details for a permissions-based support scenario.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -272,6 +282,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
