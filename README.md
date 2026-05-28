@@ -114,6 +114,26 @@ Created a test customer/user account named Taylor Morgan for future ticket scena
 **What this proves:**  
 The lab now has a realistic end user/customer profile that can be used to create and document support tickets.
 
+### 7. Ticket 01 Created - User Cannot Log In
+
+![Ticket 01 Created Confirmation](screenshots/tickets/01-ticket-created-confirmation.png)
+
+**What was completed:**  
+Created the first realistic support ticket for a user who cannot log in to their company account.
+
+**What this proves:**  
+The lab now shows ticket intake from an end user, including the request summary, help topic, and ticket creation confirmation.
+
+### 8. Ticket 01 Detail View Opened
+
+![Ticket 01 Detail Opened](screenshots/tickets/02-ticket-detail-opened.png)
+
+**What was completed:**  
+Opened the newly created login issue ticket inside the osTicket staff panel.
+
+**What this proves:**  
+The agent can access the ticket queue, open a user request, and begin documenting troubleshooting work inside the ticketing system.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -182,6 +202,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
