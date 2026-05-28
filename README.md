@@ -12,7 +12,7 @@ This repository is being built as a portfolio project for Help Desk, IT Support 
 
 **Status:** Complete / portfolio-ready draft  
 **Current phase:** Six realistic support tickets have been created, documented, resolved, and supported with screenshot proof.  
-**Next step:** Polish the final case study, resume bullets, and README wording for job applications.
+**Next step:** Add this project to resume, LinkedIn, and portfolio website.
 
 ## Skills Demonstrated
 
@@ -49,7 +49,7 @@ This repository is being built as a portfolio project for Help Desk, IT Support 
 | Capture agent dashboard | Complete | Log in and capture the staff dashboard. |
 | Configure departments/help topics | Complete | Add realistic support categories for the help desk lab. |
 | Create realistic tickets | Complete | Built and resolved six realistic support-ticket scenarios. |
-| Polish final documentation | In Progress | README screenshot walkthrough is complete; final case study and resume bullets are next. |
+| Polish final documentation | Complete | README screenshot walkthrough, case study, and resume bullets are complete. |
 
 ## Screenshot Walkthrough
 
@@ -420,7 +420,13 @@ This project is now a clear screenshot-based help desk case study that shows pra
 - `screenshots/tickets/`
 - `tickets/`
 
+## Final Documentation
+
+- [Case Study](case-study.md)
+- [Resume Bullets](resume-bullets.md)
+- [Ticket Writeups](tickets/)
+
 ## Next Step
 
-The next step is final polish: complete case-study.md, complete esume-bullets.md, and tighten the README for job applications.
+Add this project to the resume, LinkedIn, and portfolio website as a completed help desk ticketing project.
 
