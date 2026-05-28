@@ -264,6 +264,16 @@ Posted internal troubleshooting notes documenting the slow computer triage proce
 **What this proves:**  
 The ticket includes professional internal documentation for a basic performance troubleshooting workflow, including startup apps, disk space, pending updates, and resource usage checks.
 
+### 22. Ticket 04 Closed Ticket List
+
+![Ticket 04 Closed Ticket List](screenshots/tickets/16-ticket-04-closed-ticket-list.png)
+
+**What was completed:**  
+Resolved the slow computer ticket and confirmed it appears in the closed ticket queue.
+
+**What this proves:**  
+The lab shows a completed basic performance troubleshooting workflow, including the closed date, ticket subject, user, and the support agent who closed it.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -332,6 +342,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
