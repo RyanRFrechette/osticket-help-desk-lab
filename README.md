@@ -184,6 +184,16 @@ Posted an internal troubleshooting note documenting the password reset triage pr
 **What this proves:**  
 The ticket includes professional internal documentation for a common help desk password reset workflow, including identity verification and account status checks.
 
+### 14. Ticket 02 Closed Ticket List
+
+![Ticket 02 Closed Ticket List](screenshots/tickets/08-ticket-02-closed-ticket-list.png)
+
+**What was completed:**  
+Resolved the password reset request and confirmed it appears in the closed ticket queue.
+
+**What this proves:**  
+The lab shows a completed ticket lifecycle for a password reset request, including the closed date, ticket subject, user, and the support agent who closed it.
+
 ## Next Screenshots To Capture
 
 - [x] Agent dashboard
@@ -252,6 +262,7 @@ The project is still in progress, but the goal is to turn it into a clear screen
 ## Next Step
 
 The next step is to log into osTicket, capture the staff dashboard, and continue building the lab configuration.
+
 
 
 
